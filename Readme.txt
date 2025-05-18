@@ -1,10 +1,12 @@
-License Plate Recognization by using C# interface and EmguCV
+License Plate Recognization by using C# interface and EmguCV 
 
-Link code: https://drive.google.com/drive/folders/1imPfXzgRijyD2YVEARGf_d4dBTx0hHIb?usp=sharing
+🔗 Project Links
+- 📂 Source Code: https://drive.google.com/drive/folders/1imPfXzgRijyD2YVEARGf_d4dBTx0hHIb?usp=sharing
+- 📺 Demo Video:  https://youtu.be/RZke8umycUk?si=BoDBp5Y-mwPv_SO2
 
-Link Youtube Video: https://youtu.be/RZke8umycUk?si=BoDBp5Y-mwPv_SO2
+📌 Overview
+This project was "completely coded by me" from scratch, including interface design, image processing, and OCR logic. It is a C# Windows Forms application that uses **EmguCV (a .NET wrapper for OpenCV)** and **Tesseract OCR** to perform automatic and manual recognition of vehicle license plates.
 
-# License Plate Recognition using EmguCV
 This system is suitable for **vehicle access management** in various real-life scenarios with a recognition accuracy of 90%.
 - 🏢 Company parking lots  
 - 🏫 School or university campuses  
@@ -18,7 +20,7 @@ This system is suitable for **vehicle access management** in various real-life s
 - Extracted license plate characters are displayed on screen using Tesseract OCR.
 - Captured license plate images are saved automatically in the "./AutoCaptured/" folder.
 
-This project is a Windows desktop application for license plate recognition using EmguCV (a .NET wrapper for OpenCV). The application features two main modes: **Auto** and **Manual**
+I coded this project which is a Windows desktop application for license plate recognition using EmguCV (a .NET wrapper for OpenCV). The application features two main modes: **Auto** and **Manual**
 
  🛠️ Manual Processing
 - Allows the user to load and manually enhance license plate images (especially those with blur, noise, glare, etc.).
