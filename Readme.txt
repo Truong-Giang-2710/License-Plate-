@@ -6,7 +6,6 @@ Link Youtube Video: https://youtu.be/RZke8umycUk?si=BoDBp5Y-mwPv_SO2
 
 # License Plate Recognition using EmguCV
 This system is suitable for **vehicle access management** in various real-life scenarios with a recognition accuracy of 90%.
-
 - 🏢 Company parking lots  
 - 🏫 School or university campuses  
 - 🏠 Residential areas or smart gates  
