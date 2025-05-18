@@ -5,15 +5,21 @@ Link code: https://drive.google.com/drive/folders/1imPfXzgRijyD2YVEARGf_d4dBTx0h
 Link Youtube Video: https://youtu.be/RZke8umycUk?si=BoDBp5Y-mwPv_SO2
 
 # License Plate Recognition using EmguCV
+This system is suitable for **vehicle access management** in various real-life scenarios with a recognition accuracy of 90%.
 
-This project is a Windows desktop application for license plate recognition using EmguCV (a .NET wrapper for OpenCV). The application features two main modes: **Auto** and **Manual**.
-
+- 🏢 Company parking lots  
+- 🏫 School or university campuses  
+- 🏠 Residential areas or smart gates  
+- 🅿️ Public parking systems  
+ 
 🔧 Features
  🚗 Auto Recognition
 - Real-time camera feed.
 - Automatically detects and reads license plates when visible in front of the camera.
 - Extracted license plate characters are displayed on screen using Tesseract OCR.
 - Captured license plate images are saved automatically in the "./AutoCaptured/" folder.
+
+This project is a Windows desktop application for license plate recognition using EmguCV (a .NET wrapper for OpenCV). The application features two main modes: **Auto** and **Manual**
 
  🛠️ Manual Processing
 - Allows the user to load and manually enhance license plate images (especially those with blur, noise, glare, etc.).
